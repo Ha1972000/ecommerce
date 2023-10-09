@@ -1,10 +1,10 @@
 import 'dart:html';
+import 'package:ecommerce/success_screen.dart';
 import 'package:flutter/material.dart';
-import 'Screen.dart';
-import 'Screen2.dart';
-import 'Screen6.dart';
-import 'Screen7.dart';
-
+import 'home_screen.dart';
+import 'login_screen.dart';
+import 'sign_up.dart';
+import '';
 void main() {
   runApp(MyApp());
 }
